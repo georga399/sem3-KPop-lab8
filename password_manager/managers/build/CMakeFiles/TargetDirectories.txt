@@ -1,0 +1,3 @@
+/home/egor/Code/QT/password_manager/password_manager/asm/build/CMakeFiles/main.dir
+/home/egor/Code/QT/password_manager/password_manager/asm/build/CMakeFiles/edit_cache.dir
+/home/egor/Code/QT/password_manager/password_manager/asm/build/CMakeFiles/rebuild_cache.dir

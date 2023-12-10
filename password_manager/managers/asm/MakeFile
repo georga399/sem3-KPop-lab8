@@ -1,0 +1,7 @@
+all: passwordCoder.o passwordGenerator.o
+passwordCoder.o:
+	nasm -f elf64 passwordCoder.s -o passwordCoder.o
+passwordGenerator.o:
+	nasm -f elf64 passwordGenerator.s -o passwordGenerator.o
+clean:
+	rm -rf *.o
